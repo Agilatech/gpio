@@ -1,0 +1,26 @@
+{
+  "name": "@agilatech/gpio",
+  "version": "0.8.0",
+  "description": "Driver for gpio -- controller for a general purpose input or output",
+  "main": "gpio.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agilatech/gpio.git"
+  },
+  "keywords": [
+    "input",
+    "output",
+    "gpio",
+    "beaglebone",
+    "raspberry pi"
+  ],
+  "author": "Agilatech <scott@agilatech.com> (http://agilatech.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Agilatech/gpio/issues"
+  },
+  "homepage": "https://github.com/Agilatech/gpio#readme",
+  "dependencies": {
+    "onoff": "*"
+  }
+}
